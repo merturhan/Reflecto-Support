@@ -23,4 +23,4 @@ Reflecto is an Apple Watch app designed for cyclists and runners, enhancing visi
 
 ## Support
 
-For questions about the app, you can visit our [SSS](/faq) page or contact us through our [contact](/contact) page. 
+For questions about the app, you can visit our [FAQ]({{ site.baseurl }}/faq/) page or contact us through our [Contact]({{ site.baseurl }}/contact/) page. 
